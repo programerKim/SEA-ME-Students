@@ -31,3 +31,4 @@ programerKim
 ## Project Links:
 - warm up : https://github.com/programerKim/SEA-ME-warm-up.git
 - IC project : https://github.com/mechsoon/Team6-instrument-cluster.git 
+- HU project : https://github.com/Team2-DES-Head-Unit/DES_Head-Unit
