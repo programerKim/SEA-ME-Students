@@ -32,3 +32,8 @@ programerKim
 - warm up : https://github.com/programerKim/SEA-ME-warm-up.git
 - IC project : https://github.com/mechsoon/Team6-instrument-cluster.git 
 - HU project : https://github.com/Team2-DES-Head-Unit/DES_Head-Unit
+- PDC project : https://github.com/Team2-DES-Head-Unit/DES_PDC-System.git
+- OTA project(just bagic ota) : https://github.com/Team2-DES-Head-Unit/MCS-OTA
+- SCS project : https://github.com/Team2-DES-Head-Unit/SCS_Integrated_Digital_Cockpit
+- Eclipse SDA Hackaton : https://github.com/Eclipse-SDV-Hackathon-Chapter-Two-APT/APT.git
+- Bosch Future Mobility Challenge 2025 : https://github.com/BFMC-team-seame/team-SEAME-BFMC2025.git
